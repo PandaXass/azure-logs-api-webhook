@@ -6,7 +6,6 @@ Simple webhook to send custom logs to Azure Monitor Log Analytics workspace usin
 
 * Python 3.x
 * pipenv
-* Azure CLI 2.0.80 or higher
 
 ## Local development
 
